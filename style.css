@@ -87,6 +87,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   background-color: var(--color-darker);
+  padding: 3rem;
 }
 
 nav a {
